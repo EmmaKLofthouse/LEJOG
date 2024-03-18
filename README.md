@@ -13,7 +13,7 @@ as documented here totalled around 1300 miles.
 
 ## Interactive Route Plot
 Before delving into the details of the analysis, you can explore an 
-interactive plot of the route on my website at [emmaklofthouse.com/end2end](emmaklofthouse.com/end2end).
+interactive plot of the route on my website at [emmaklofthouse.com/end2end](http://emmaklofthouse.com/end2end).
 
 ![Screenshot_map](https://github.com/EmmaKLofthouse/LEJOG/assets/18194748/697d1c2d-4eab-40c4-adfe-64aa24038de2)
 
