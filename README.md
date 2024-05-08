@@ -45,7 +45,7 @@ I walked more during the week, mainly because when I took rest days, they were m
 
 ![corr](https://github.com/EmmaKLofthouse/LEJOG/assets/18194748/76236b86-87ba-463d-8163-8bc2d3c5acda)
 
-There is obviously a very strong correlation between distance walked and steps but also some other weaker but interesting correlations. For example, cow encounters and stiles (both are associated with farms and fields!), more dogs petted on sunnier days and also... the number of times I cried is positvely associated with cow encounters. This makes sense when you know that despite my love of hiking I have a strong fear (phobia?) of cows!
+There is obviously a very strong correlation between distance walked and steps but also some other weaker but interesting correlations. For example, cow encounters and stiles (both are associated with farms and fields), more dogs petted on sunnier days and also... the number of times I cried is positvely associated with cow encounters. This makes sense when you know that despite my love of hiking I have a strong fear of cows and did get chased a few times!
 
 
 ## Usage
@@ -60,7 +60,5 @@ git clone https://github.com/EmmaKLofthouse/LEJOG.git
 
 ## Contributions
 
-Contributions to this project are welcome! If you have ideas for 
-improvements or would like to add new analyses, feel free to submit a pull 
-request. 
-Any questions about the route or my experience are also very welcome!
+Contributions to this project are welcome! If you have ideas for improvements or would like to add new analyses, feel free to submit a pull 
+request. Any questions about the route or my experience are also very welcome!
