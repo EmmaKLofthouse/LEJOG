@@ -18,12 +18,11 @@ interactive plot of the route on my website at [emmaklofthouse.com/end2end](http
 ![Screenshot_map](https://github.com/EmmaKLofthouse/LEJOG/assets/18194748/697d1c2d-4eab-40c4-adfe-64aa24038de2)
 
 ## Dataset
-The data used here was personally recorded as I was walking. It consists of two tables: overview.csv includes the day, date, start and end locations, distances walked counts.csv includes various things that I kept track of along the way such as steps, weather, number of stiles, number of dogs/cats I petted, county borders and how many times I was chased by cows
+The data used here was personally recorded as I was walking. It consists of two tables: 1. overview.csv which includes the day, date, start and end locations, distances walked and 2. counts.csv which includes various things that I kept track of along the way such as steps, weather, number of stiles, number of dogs/cats I petted, county borders and how many times I was chased by cows!
 
 ## Project Overview
 
-The lejog.ipynb notebook included in this repo includes cleaning of the data, creation of the interactive map above and various analyses of which I include a few below as examples. 
-
+The lejog.ipynb notebook included in this repo contains the cleaning of the data, creation of the interactive map above and various analyses of which I include a few below as examples. 
 
 ### Analysis of Walking and Rest Days
 
