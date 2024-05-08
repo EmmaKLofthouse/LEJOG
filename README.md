@@ -5,11 +5,11 @@ This project aims to analyze my journey from Lands End to John O'Groats, one
 of the most iconic routes in the United Kingdom and the traditional "End to 
 End" journey. 
 
-Land's End at the South-West tip of England in Cornwall while John O'Groats 
+Land's End in Cornwall is at the South-West tip of England while John O'Groats 
 lies up in the far North-East of Scotland. As the crow flies, the distance 
-between the two is around 603 miles however walking inevitably involves a 
+between the two is around 603 miles, however walking inevitably involves a 
 much greater distance (e.g. to avoid the sea!) and in particular, my journey 
-as documented here totalled around 1300 miles. 
+as documented here totalled around 1300 miles or 2200km. 
 
 ## Interactive Route Plot
 Before delving into the details of the analysis, you can explore an 
